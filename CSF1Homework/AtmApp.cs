@@ -72,7 +72,7 @@ namespace CSF1Homework
                                                 break;
                                             case "2":
                                                 //step 5
-                                                //continueTransaction = false;
+                                                
                                                 
                                                 Console.WriteLine("How much do you wish to withdraw? ");
                                                 Console.WriteLine(Console.ReadLine() + " is the amount that will be withdrawn to the account number " + accNumber);
