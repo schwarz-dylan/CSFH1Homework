@@ -12,6 +12,16 @@ namespace CSF1Homework
         {
             Console.Title = "Fruit Loops Lab";
             Console.WriteLine("Fruit Loops Lab");
+
+            string[] fruit = new string[6];
+
+            fruit[0] = "apples"; 
+            fruit[1] = "bananas";
+            fruit[2] = "oranges";
+            fruit[3] = "blueberries";
+            fruit[4] = "strawberries";
+            fruit[5] = "grapes";
+
         }//end Main()
     }//end class
 }//end namespace
